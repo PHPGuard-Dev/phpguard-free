@@ -44,9 +44,12 @@ PHPGuard Pro is in development and will introduce:
 - Real-time crash protection
 - Agency + workflow features
 - Safety automation
+- Automatic blocking (with override), Monitoring (with warning) or Leave alone
+- Trust functionality
 - Mission-critical protections
-- Hook in with WP's Plugin engine
+- Fully hook in with WP's Plugin engine
 - Backup and Rollback per plugin or Globally including database
+- Periodic snapshots/backups with retention period
 - Detail Logging
 - Professional UI
 
