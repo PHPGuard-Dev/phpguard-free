@@ -46,7 +46,7 @@ PHPGuard Pro is in development and will introduce:
 - Safety automation
 - Mission-critical protections
 - Hook in with WP's Plugin engine
-- Backup and Rollback per plugin or Global including database
+- Backup and Rollback per plugin or Globally including database
 - Detail Logging
 - Professional UI
 
