@@ -38,13 +38,17 @@ https://www.phpguard.dev/changelog/
 
 ---
 
-## 🔥 PHPGuard Pro (Coming Soon)
+## 🔥 PHPGuard Pro (Coming very soon)
 
 PHPGuard Pro is in development and will introduce:
 - Real-time crash protection
 - Agency + workflow features
 - Safety automation
 - Mission-critical protections
+- Hook in with WP's Plugin engine
+- Backup and Rollback per plugin or Global including database
+- Detail Logging
+- Professional UI
 
 Want to be notified?
 https://www.phpguard.dev/early-access/
